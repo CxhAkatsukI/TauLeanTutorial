@@ -1,0 +1,6 @@
+name = "TauLeanTutorial"
+version = "0.1.0"
+defaultTargets = ["TauLeanTutorial"]
+
+[[lean_lib]]
+name = "TauLeanTutorial"
